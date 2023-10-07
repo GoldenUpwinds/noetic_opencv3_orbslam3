@@ -1,0 +1,5 @@
+rosws/.catkin_tools/CATKIN_IGNORE
+build/
+devel/
+.catkin_tools/
+logs/
